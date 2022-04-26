@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "https://niforhouse2028.framer.website"
+        }
+    ]
+}
